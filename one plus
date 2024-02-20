@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+    //index take last
+     int indx=digits.size()-1;
+     while(indx>=0)
+     {
+         if(digits[indx]==9)  // when of last element
+         {
+            digits[indx]=0;
+         }
+         else
+         {
+             digits[indx]+=1;
+             return digits;
+         }
+         indx--; //after the operation decrement
+     }
+     digits.insert(digits.begin(),1); // when all the 9 element so add 1 at first.
+     return digits;
+    }
+};
