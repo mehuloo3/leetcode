@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int titleToNumber(string columnTitle) {
+//power =p
+        int p=0;
+        int ans=0;
+//begin at the last
+        for(int i=columnTitle.size()-1;i>=0;i--)
+        {
+          //ith position no character.
+            char c =columnTitle[i];
+          //ascii value parathi 1-26(A-Z) ne as char leva (A-Z=65-90 a-z=97-122)
+            int v=(int)c - 65 + 1;
+          //26^p like binary to decimal
+            ans=ans+v*pow(26,p);
+          //increment of the power till ith position.
+            p++;
+        }
+        return ans;
+        
+    }
+};
