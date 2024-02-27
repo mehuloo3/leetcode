@@ -1,0 +1,18 @@
+class Solution {
+public:
+    string intToRoman(int num) {
+        int decimalValue[] = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+    const char *romanNumeral[] = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+      char roman[20] = "";
+       int i = 0;
+
+    while (num > 0) {
+        while (num >= decimalValue[i]) {
+            strcat(roman, romanNumeral[i]); 
+            num =num - decimalValue[i];
+        }
+        i++;
+    }
+return roman; 
+}
+};
