@@ -1,0 +1,51 @@
+class Solution {
+public:
+    // int d[205][205];
+    // int fun(vector<vector<int>>& arr,int r,int c)
+    // {
+    //     int n=arr.size();
+    //     if(r==n) return 0;
+    //     if(d[r][c]!=-1) return d[r][c];
+    //     int ans=INT_MAX;
+    //     for(int i=0;i<n;i++)
+    //     {
+    //         if(i !=c) ans=min(ans,fun(arr,r+1,i));
+    //     }
+    //     return d[r][c]=ans+arr[r][c];
+    // }
+    int minFallingPathSum(vector<vector<int>>& arr) {
+        // int n=arr.size();
+        // memset(d,-1,sizeof(d));
+        // int ans=INT_MAX;
+        // for(int i=0;i<n;i++) ans=min(ans,fun(arr,0,i));
+        // return ans;
+        int n = arr.size(), res = INT_MAX;
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+
+        for(int j = 0; j < n; ++j) {
+            dp[0][j] = arr[0][j];
+        }
+
+        for(int i = 1; i < n; ++i) {
+            for(int j = 0; j < n; ++j) {
+                int temp = INT_MAX;
+
+                for(int k = 0; k < n; ++k) {
+                    if(k != j) {
+                        temp = min(temp, arr[i][j] + dp[i - 1][k]);
+                    }
+
+                    dp[i][j] = temp;
+                }
+            }
+        }
+
+        for(int j = 0; j < n; ++j) {
+            res = min(res, dp[n - 1][j]);
+        }
+
+        return res;
+
+
+    }
+};
