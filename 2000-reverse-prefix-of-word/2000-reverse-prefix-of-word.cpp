@@ -1,8 +1,7 @@
 class Solution {
 public:
     string reversePrefix(string word, char ch) {
-        string s="";
-        int j=0;
+      int j=0;
       for(int i=0;i<word.size();i++)
       {
           if(word[i]==ch)
