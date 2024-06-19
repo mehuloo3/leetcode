@@ -23,39 +23,25 @@ public:
     }
 
     int minDays(vector<int>& bloomDay, int m, int k) {
-        // int start=0;
-        // int end=bloomDay.size()-1;
-        // while(start<=end)
-        // {
-        //     int mid=start+(end-start)/2;
-        //     if(bloomDay)
-        // }
-    long long val = m * 1ll * k * 1ll;
-    int n = bloomDay.size(); //size of the array
-    if (val > n) return -1; //impossible case.
-    //find maximum and minimum:
+    long long val = m*1ll*k*1ll;
+    int n = bloomDay.size(); 
+    if (val > n) return -1; 
     int mini = INT_MAX, maxi = INT_MIN;
-    for (int i = 0; i < n; i++) {
+    for(int i= 0;i<n;i++)
+    {
         mini = min(mini,bloomDay[i]);
         maxi = max(maxi,bloomDay[i]);
     }
-         int low = mini, high = maxi;
-        while (low <= high) {
-        int mid = (low + high) / 2;
-        if (posible(bloomDay, mid, m, k)) {
-            high = mid - 1;
+         int start=mini,end=maxi;
+        while(start<=end) 
+        {
+        int mid= start+(end-start)/2;
+        if (posible(bloomDay,mid,m,k))
+        {
+            end=mid-1;
         }
-        else low = mid + 1;
+        else start=mid+1;
     }
-    return low;
-        // for(int i=0;i<=bloomDay.size();i++)
-        // {
-        //     if(posible(bloomDay,i,m,k)==true)
-        //     {
-        //         return i;
-        //     }
-        // }
-        // return -1;
-        
+    return start;
     }
 };
