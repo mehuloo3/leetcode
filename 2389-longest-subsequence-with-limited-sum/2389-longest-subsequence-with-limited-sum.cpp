@@ -2,16 +2,16 @@ class Solution {
 public:
     int search(vector<int> &nums,int x)
     {
-         int l=0,r=nums.size();
-        while (l<r) {
-            int mid = (l + r) >> 1;
-            if (nums[mid] > x) {
-                r = mid;
+         int start=0,end=nums.size();
+        while (start<end) {
+            int mid=start+(end-start)/2;
+            if (nums[mid]>x) {
+                end=mid;
             } else {
-                l = mid + 1;
+                start= mid+1;
             }
         }
-        return l;
+        return start;
     }
     vector<int> answerQueries(vector<int>& nums, vector<int>& queries)
     {
