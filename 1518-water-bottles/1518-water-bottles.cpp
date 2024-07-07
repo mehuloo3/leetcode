@@ -9,13 +9,16 @@ public:
             // int remain=numBottles%numExchange;
             // result=newbottles;
             // newbottles+=remain;
-            while(numBottles>=numExchange){
-            int newBottles=numBottles/numExchange;
-            int remBottles= numBottles % numExchange;
-            ans=ans+newBottles;
-            numBottles=newBottles+remBottles;
+            // while(numBottles>=numExchange){
+            // int newBottles=numBottles/numExchange;
+            // int remBottles= numBottles % numExchange;
+            // ans=ans+newBottles;
+            // numBottles=newBottles+remBottles;
 
-        }
+             ans=ans+numBottles/numExchange;
+             numBottles=numBottles/numExchange+numBottles%numExchange;
+            
+            
         }
         return  ans;
     }
