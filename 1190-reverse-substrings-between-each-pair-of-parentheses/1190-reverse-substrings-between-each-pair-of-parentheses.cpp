@@ -8,7 +8,7 @@ public:
          }
     }
     string reverseParentheses(string s) {
-    stack<int>v;
+    stack<int>v; 
     int n=s.size();
     for (int i=0;i<n;i++)
     {
@@ -19,7 +19,7 @@ public:
         else if(s[i]==')')
         {
             reverse(s,v.top()+1,i-1); 
-            v.pop();
+            v.pop();    
         }
     }
     string res;
