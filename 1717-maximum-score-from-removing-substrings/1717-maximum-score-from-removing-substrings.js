@@ -8,8 +8,7 @@
 var maximumGain = function(s, x, y) {
     let total = 0;
     let data = [];
-
-    if(x > y){
+    if(x>y){
         data = removeTarget(s,x,"ab")
         s = data.join("");
         removeTarget(s , y , "ba");
@@ -21,11 +20,8 @@ var maximumGain = function(s, x, y) {
     }
     
        function removeTarget(str , points , pattern){
-        
         let stack = [];
-
         for(let char of str){
-
             if(stack.length > 0 && stack.at(-1) + char == pattern){
                 total += points;
                 stack.pop();
