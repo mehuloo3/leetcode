@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void merge(vector<int>&arr,int start,int mid,int end)
+void merge(vector<int>&arr,int start,int mid,int end)
 {
   vector<int>temp(end-start+1);
   int left=start,right=mid+1,index=0;
