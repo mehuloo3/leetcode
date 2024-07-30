@@ -1,10 +1,14 @@
-class Solution:
-    def minimumDeletions(self, s: str) -> int:
-        res=0
-        c=0
-        for i in s:
-            if i=='a':
-                res=min(res+1,c)
-            else:
-                c+=1
-        return res
+class Solution {
+public:
+    int minimumDeletions(string s) {
+        int count=0,res=0;
+        for(char ch : s)
+        {
+            if(ch=='a')
+               res= min(res+1,count);
+            else
+            count++;
+        }
+        return res;
+    }
+};
