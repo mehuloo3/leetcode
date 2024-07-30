@@ -1,14 +1,17 @@
-class Solution {
-public:
-    int minimumDeletions(string s) {
-        int count=0,res=0;
-        for(char ch : s)
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var minimumDeletions = function(s) {
+    
+    let c=0;
+    let ans=0;
+    for(let i in s)
         {
-            if(ch=='a')
-               res= min(res+1,count);
+            if(s[i]==="a") 
+                ans=Math.min(ans+1,c);
             else
-            count++;
+             c+=1;
         }
-        return res;
-    }
+    return ans;
 };
