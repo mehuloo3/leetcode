@@ -1,5 +1,5 @@
-class Solution:
-    def countSeniors(self, details: List[str]) -> int:  
+class Solution(object):
+    def countSeniors(self, details):
        res=[]
        for i in details:
           x=i[11:13]
@@ -7,3 +7,4 @@ class Solution:
           res.append(v)
           p=filter(lambda x: x >60,res)
        return len(list(p))
+        
