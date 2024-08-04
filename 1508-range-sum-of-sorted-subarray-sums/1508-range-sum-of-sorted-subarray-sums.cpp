@@ -4,7 +4,7 @@ public:
         vector<int>ans;
         vector<int>res;
         int sum2=0;
-        int MOD = 1000000007;
+        // int MOD = 1000000007;
         for(int i=0;i<n;i++)
         {
             for(int j=i;j<n;j++)
@@ -20,7 +20,7 @@ public:
         sort(ans.begin(),ans.end());
         for(int i=left-1;i<right;i++)
         {
-           sum2=(sum2+ans[i])%MOD;
+           sum2=(sum2+ans[i])%1000000007;;
         }
         return sum2;
     }
