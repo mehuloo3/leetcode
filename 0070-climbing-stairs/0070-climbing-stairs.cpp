@@ -16,6 +16,10 @@ public:
             d[i]=d[i-1]+d[i-2];
         } 
       return d[n];
+        
+    //     if(n==1 || n==2)
+    //      return 1;
+    // return climbStairs(n-1)+climbStairs(n-2);
     }
   
 };
