@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         int cnt=0;
         int i=0;
         while(i<nums.size())
@@ -9,8 +9,6 @@ public:
             if(nums[i]<k)
             {
                 cnt++;
-                // cnt=i;
-                // break;
             }
             i++;
         }
