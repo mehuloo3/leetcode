@@ -17,7 +17,9 @@ public:
         
         int l=0;
         int m=0;
+        //non decreasing mean must ascendinding sort  even
         sort(v1.begin(),v1.end());
+         //non decreasing mean must ascendinding sort odd
         sort(v2.rbegin(),v2.rend());
         for(int i=0;i<nums.size();i++)
         {
