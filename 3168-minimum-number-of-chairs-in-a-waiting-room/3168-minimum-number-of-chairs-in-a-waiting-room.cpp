@@ -1,21 +1,19 @@
 class Solution {
 public:
     int minimumChairs(string s) {
-        int p=0,c=0;
+        int chair=0,people=0;
         int maxi=INT_MIN;
         for(auto i:s)
         {
-            if(i=='E') 
+            if(i=='E')
             {
-                c++;
-                maxi=max(maxi,c);
-                
+                chair++;
+                maxi=max(maxi,chair);
             }
             else if(i=='L')
             {
-                c--;
+                chair--;
             }
-              
         }
         return maxi;
     }
