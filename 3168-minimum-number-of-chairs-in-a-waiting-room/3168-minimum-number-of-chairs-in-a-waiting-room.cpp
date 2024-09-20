@@ -8,12 +8,13 @@ public:
             if(i=='E')
             {
                 chair++;
-                maxi=max(maxi,chair);
+                // maxi=max(maxi,chair);
             }
             else if(i=='L')
             {
                 chair--;
             }
+             maxi=max(maxi,chair);
         }
         return maxi;
     }
