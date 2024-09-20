@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumChairs(string s) {
         int chair=0,people=0;
-        int maxi=INT_MIN;
+        int maxi=0;
         for(auto i:s)
         {
             if(i=='E')
