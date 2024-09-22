@@ -33,6 +33,6 @@ public:
         int a=left(arr,mid);
         int b=right(arr,mid,n);
         
-        return a&&b;
+        return a && b;
     }
 };
