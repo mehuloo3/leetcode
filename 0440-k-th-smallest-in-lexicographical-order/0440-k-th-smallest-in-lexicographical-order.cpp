@@ -16,9 +16,7 @@ public:
 int count(int n, long long curr, long long next) {
         int steps = 0;
         while (curr <= n) {
-            // steps =steps +min(n + 1, next) - curr;
             steps += min((long long)(n + 1), next) - curr;
-
             curr *= 10;
             next *= 10;
         }
