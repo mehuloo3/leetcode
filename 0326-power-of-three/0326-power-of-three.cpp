@@ -1,24 +1,27 @@
 class Solution {
 public:
-    // bool check(int n)
-    // {
-    //     int i=0;
-    //     while(i<n)
-    //     {
-    //         if(i%3==0)
-    //         {
-    //             num+
-    //         }
-    //     }
-    // }
     bool isPowerOfThree(int n) {
-          if(n==0 || n<0) return false;
-          else if(n==1) return true;
         
-        if(n%3!=0)
+        //using the recursion
+//           if(n==0 || n<0) return false;
+//           else
+//               if(n==1) return true;
+        
+//         if(n%3!=0)
+//         {
+//             return false;
+//         }
+//          return isPowerOfThree(n/3);
+        
+        //use the while
+        
+        if(n<=0) return false;
+        
+        while(n%3==0)
         {
-            return false;
-            }
-         return isPowerOfThree(n/3);
+            n=n/3;
+        }
+        return n==1;
+    
     }
 };
