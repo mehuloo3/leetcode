@@ -15,7 +15,6 @@ public:
         ListNode  *mehul=new ListNode();
         ListNode *temp=mehul;
         int c=0;
-        // int sum=0;
         while(l1!=NULL || l2!=NULL || c)
         {
             int sum=0;
@@ -27,7 +26,7 @@ public:
             if(l2!=nullptr)
             {
              sum+=l2->val;
-            l2=l2->next;   
+             l2=l2->next;   
             }
             sum+=c;
             c=sum/10;
