@@ -46,20 +46,6 @@ public:
     }
     
     bool deleteFront() {
-//          if(isFull())
-//             {
-//              return false;   
-//             }
-//     else if(isEmpty())
-//            {
-//                front=rear=-1;
-//            }
-//     else
-//         {
-//             front=(front+1)%size;
-//         }
-        
-//         return true;
         
           if (isEmpty()) {
             return false;
@@ -73,20 +59,6 @@ public:
     }
     
     bool deleteLast() {
-//          if(isEmpty())
-//             {
-//              return false;   
-//             }
-//     else if(front==rear)
-//            {
-//                front=rear=-1;
-//            }
-//     else
-//         {
-//             rear=(rear-1+size)%size;
-//         }
-        
-//         return true;
         
         if (isEmpty()) {
             return false;
@@ -94,7 +66,7 @@ public:
         if (front == rear) {
             front = rear = -1;
         } else {
-            rear = (rear - 1+size) % size;
+            rear = (rear-1+size) % size;
         }
         return true;
     }
