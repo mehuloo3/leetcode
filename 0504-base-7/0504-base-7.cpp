@@ -1,17 +1,20 @@
 class Solution {
 public:
     string convertToBase7(int num) {
-    
+        if (num==0) return "0";
+        int x=abs(num);
         string res="";
-        int nm=abs(num);
-        if(nm==0) return "0";
-        while(nm)
+        string r="";
+        while(x)
         {
-            res+=to_string(nm%7);
-            nm=nm/7;
+            res+=to_string(x%7);
+            x=x/7;
         }
         if(num<0) res+="-";
-        reverse(res.begin(),res.end());  
-        return res;
+        for(int i=res.size()-1;i>=0;i--)
+        {
+            r+=res[i];
+        }
+        return r;
         }
 };
