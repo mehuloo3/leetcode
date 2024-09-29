@@ -13,7 +13,7 @@ public:
         {
             s+=i;
             ans.push_back(i);
-            if(s>sum-s)
+            if(s+s>sum)
             {
                 break;
             }
