@@ -1,24 +1,22 @@
 class Solution {
 public:
     vector<int> minSubsequence(vector<int>& nums) {
-        sort(nums.rbegin(),nums.rend());
+       sort(nums.rbegin(),nums.rend());
+        int s1=0,s2=0;
         vector<int>ans;
-        int sum=0;
         for(auto i:nums)
         {
-            sum+=i;
+            s1+=i;
         }
-        int s=0;
-        for(auto i:nums)
+        for(auto j:nums)
         {
-            s+=i;
-            ans.push_back(i);
-            if(s+s>sum)
+            s2+=j;
+            ans.push_back(j);
+            if(s2>s1-s2)
             {
                 break;
             }
         }
-        
         return ans;
     }
 };
