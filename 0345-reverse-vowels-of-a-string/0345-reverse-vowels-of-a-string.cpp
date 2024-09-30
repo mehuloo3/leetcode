@@ -1,7 +1,7 @@
 class Solution {
 public:
   bool check(char c) {
-    // Check if the character is a vowel (both lowercase and uppercase)
+    //both lowercase and uppercase
     return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || 
            c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
 }
@@ -18,10 +18,12 @@ public:
                 i++;
                 j--;
             }
+            //jo not vowel to i++
             else if(!check(s[i]))
             {
                 i++;
             }
+            //jo not vowel to j--
             else if(!check(s[j]))
             {
                 j--;
