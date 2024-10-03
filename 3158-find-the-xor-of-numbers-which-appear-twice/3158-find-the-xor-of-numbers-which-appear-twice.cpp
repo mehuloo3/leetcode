@@ -12,7 +12,7 @@ public:
         {
             if(i.second>1)
             {
-                res^=i.first;
+                res=res^i.first;
             }
         }
         return res;
