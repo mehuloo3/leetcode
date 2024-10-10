@@ -4,15 +4,18 @@ public:
       stack<char>st;
      for(auto i:s)
      {
-         if(!st.empty() and (st.top()=='(' and i==')') )
+         //if first start ( then check next if ) then pop both
+         if(!st.empty() and (st.top()=='(' and i==')'))
          {
              st.pop();
          }
          else
          {
-             st.push(i);
+      //remain push
+          st.push(i);
          }
      }
-        return st.size();
+         return st.size(); 
     }
+         
 };
