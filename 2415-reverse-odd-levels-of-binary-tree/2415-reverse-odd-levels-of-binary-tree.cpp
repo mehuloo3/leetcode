@@ -16,12 +16,13 @@ public:
         return root;
     }
 private:
-  void dfs(TreeNode* left, TreeNode* right, bool isOddLevel) {
+  void dfs(TreeNode* left, TreeNode* right,bool check) {
     if (left == nullptr)
       return;
-    if (isOddLevel)
+    if (check)
       swap(left->val, right->val);
-    dfs(left->left, right->right, !isOddLevel);
-    dfs(left->right, right->left, !isOddLevel);
+    dfs(left->left, right->right, !check);
+    dfs(left->right, right->left, !check);
+    
   }
 };
