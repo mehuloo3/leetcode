@@ -1,13 +1,17 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        int mini=INT_MAX;
+        int n=nums.size();
         int cnt=0;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<n;i++)
         {
-            mini=min(nums[i]%3,3-(nums[i])%3);
-            cnt+=mini;
+            if(nums[i]%3!=0)
+            {
+                // nums[i]+=1;
+                cnt++;
+            }
+            
         }
-        return  cnt;
+        return cnt;
     }
 };
