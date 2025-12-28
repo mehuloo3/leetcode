@@ -8,6 +8,7 @@ for the problem solving
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -39,6 +40,7 @@ for the problem solving
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -74,5 +76,6 @@ for the problem solving
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
