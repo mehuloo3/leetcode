@@ -34,6 +34,7 @@ for the problem solving
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Two Pointers
@@ -48,6 +49,7 @@ for the problem solving
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
