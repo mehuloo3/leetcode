@@ -1,23 +1,27 @@
 class Solution {
 public:
-    string binary(int n)
-    {
-        string str="";
+    bool hasAlternatingBits(int n) {
+        string st="";
+        int c=0;
         while(n!=0)
         {
             int x=n%2;
-            str+=x+'0';
+            st+='0'+(x);
             n=n/2;
         }
-        reverse(str.begin(),str.end());
-        return str;
-    }
-    bool hasAlternatingBits(int n) {
-        string p=binary(n);
-        for(int i=1;i<p.size();i++)
+        reverse(st.begin(),st.end());
+
+        for(int i=1;i<st.size();i++)
         {
-            if(p[i-1]==p[i]) return false;
+            if(st[i]==st[i-1])
+            {
+            c++;
+            }
         }
-        return true;
+        if(c==0)
+        {
+            return true;
+        }
+    return false;
     }
 };
