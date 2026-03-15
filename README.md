@@ -6,6 +6,7 @@ for the problem solving
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -32,6 +33,7 @@ for the problem solving
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
