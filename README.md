@@ -37,6 +37,7 @@ for the problem solving
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -52,6 +53,7 @@ for the problem solving
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -125,4 +127,16 @@ for the problem solving
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/mehuloo3/leetcode/tree/master/1980-find-unique-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
