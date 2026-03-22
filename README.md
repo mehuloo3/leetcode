@@ -6,6 +6,7 @@ for the problem solving
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -62,6 +63,7 @@ for the problem solving
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -106,6 +108,7 @@ for the problem solving
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mehuloo3/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
