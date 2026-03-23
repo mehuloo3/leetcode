@@ -58,6 +58,7 @@ for the problem solving
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ for the problem solving
 | [0147-insertion-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/mehuloo3/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ for the problem solving
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
