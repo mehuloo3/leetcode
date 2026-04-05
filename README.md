@@ -84,6 +84,7 @@ for the problem solving
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@ for the problem solving
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mehuloo3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/mehuloo3/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
