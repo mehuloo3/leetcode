@@ -50,6 +50,7 @@ for the problem solving
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -93,6 +94,7 @@ for the problem solving
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mehuloo3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
