@@ -9,6 +9,7 @@ for the problem solving
 | [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -28,6 +29,7 @@ for the problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -51,6 +53,7 @@ for the problem solving
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
