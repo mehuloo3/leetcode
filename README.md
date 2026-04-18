@@ -87,6 +87,7 @@ for the problem solving
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/mehuloo3/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
