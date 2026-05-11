@@ -25,6 +25,7 @@ for the problem solving
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mehuloo3/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -63,6 +64,7 @@ for the problem solving
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mehuloo3/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mehuloo3/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
