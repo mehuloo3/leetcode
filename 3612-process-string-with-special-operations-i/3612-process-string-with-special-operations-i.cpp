@@ -1,27 +1,5 @@
 class Solution {
 public:
-    string reverse(string s)
-    {
-      string str="";
-      for(int i=s.size()-1;i>=0;i--)
-      {
-        str+=s[i];
-      }
-      return str;
-    }
-    string duplicate(string s)
-    {
-       return s+""+s;
-    }
-    string removes(string s)
-    {
-        string str="";
-      for(int i=0;i<s.size()-1;i++)
-      {
-        str+=s[i];
-      }
-      return str;
-    }
     string processStr(string s) {
         string str="";
         for(auto i:s)
