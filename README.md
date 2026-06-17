@@ -67,6 +67,7 @@ for the problem solving
 | [2553-separate-the-digits-in-an-array](https://github.com/mehuloo3/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/mehuloo3/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/mehuloo3/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mehuloo3/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ for the problem solving
 | [1980-find-unique-binary-string](https://github.com/mehuloo3/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/mehuloo3/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/mehuloo3/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
