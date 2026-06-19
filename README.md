@@ -14,6 +14,7 @@ for the problem solving
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1732-find-the-highest-altitude](https://github.com/mehuloo3/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mehuloo3/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mehuloo3/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -136,6 +137,7 @@ for the problem solving
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/mehuloo3/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
