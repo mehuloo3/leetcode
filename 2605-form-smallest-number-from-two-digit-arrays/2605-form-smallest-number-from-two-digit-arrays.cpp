@@ -8,10 +8,10 @@ public:
         string k="";
         int ans;
         vector<int>v;
-         std::ranges::sort(nums1);
-         std::ranges::sort(nums2);
-         std::vector<int> intersection;
-    std::ranges::set_intersection(nums1, nums2, std::back_inserter(intersection));
+        sort(nums1.begin(),nums1.end());
+        sort(nums2.begin(),nums2.end());
+        vector<int>intersection;
+        set_intersection(nums1.begin(), nums1.end(),nums2.begin(), nums2.end(), back_inserter(intersection));
     if(intersection.size()>0)
     {
         ans=*min_element(intersection.begin(),intersection.end());
