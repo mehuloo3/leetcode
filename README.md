@@ -39,6 +39,7 @@ for the problem solving
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -107,6 +108,7 @@ for the problem solving
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -123,6 +125,7 @@ for the problem solving
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mehuloo3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
