@@ -27,6 +27,7 @@ for the problem solving
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/mehuloo3/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mehuloo3/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -63,6 +64,7 @@ for the problem solving
 | [1833-maximum-ice-cream-bars](https://github.com/mehuloo3/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/mehuloo3/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
@@ -160,6 +162,7 @@ for the problem solving
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mehuloo3/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/mehuloo3/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Rolling Hash
