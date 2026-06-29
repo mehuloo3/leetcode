@@ -110,6 +110,7 @@ for the problem solving
 | [2651-calculate-delayed-arrival-time](https://github.com/mehuloo3/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mehuloo3/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
@@ -161,6 +162,7 @@ for the problem solving
 |  |
 | ------- |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -215,6 +217,7 @@ for the problem solving
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
