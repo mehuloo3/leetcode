@@ -39,6 +39,7 @@ for the problem solving
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mehuloo3/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -54,6 +55,7 @@ for the problem solving
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
@@ -72,6 +74,7 @@ for the problem solving
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/mehuloo3/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
