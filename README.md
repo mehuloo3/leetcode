@@ -35,6 +35,7 @@ for the problem solving
 | [2553-separate-the-digits-in-an-array](https://github.com/mehuloo3/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -55,6 +56,7 @@ for the problem solving
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehuloo3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -261,5 +263,6 @@ for the problem solving
 ## Sliding Window
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehuloo3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
