@@ -26,6 +26,7 @@ for the problem solving
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mehuloo3/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mehuloo3/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehuloo3/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mehuloo3/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mehuloo3/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -118,6 +119,7 @@ for the problem solving
 | [1344-angle-between-hands-of-a-clock](https://github.com/mehuloo3/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/mehuloo3/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -133,6 +135,7 @@ for the problem solving
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -144,6 +147,7 @@ for the problem solving
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mehuloo3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/mehuloo3/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mehuloo3/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -258,6 +262,7 @@ for the problem solving
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -267,4 +272,16 @@ for the problem solving
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehuloo3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
