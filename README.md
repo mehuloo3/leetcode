@@ -15,6 +15,7 @@ for the problem solving
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/mehuloo3/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -117,6 +118,7 @@ for the problem solving
 | ------- |
 | [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mehuloo3/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehuloo3/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
@@ -184,6 +186,7 @@ for the problem solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
@@ -261,6 +264,7 @@ for the problem solving
 ## Game Theory
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 ## Number Theory
@@ -275,6 +279,7 @@ for the problem solving
 ## Minimax
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -283,5 +288,6 @@ for the problem solving
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
