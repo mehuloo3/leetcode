@@ -21,7 +21,6 @@ public:
         {
           return c1>0 && c2>0;
         }
-
-        return abs(c1-c2)>2;
+       return abs(c1-c2)>2;
     }
 };
