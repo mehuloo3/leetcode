@@ -41,6 +41,7 @@ for the problem solving
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mehuloo3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mehuloo3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -66,6 +67,7 @@ for the problem solving
 | [2549-count-distinct-numbers-on-board](https://github.com/mehuloo3/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/mehuloo3/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mehuloo3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehuloo3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -151,6 +153,7 @@ for the problem solving
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mehuloo3/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/mehuloo3/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mehuloo3/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
