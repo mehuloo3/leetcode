@@ -55,6 +55,7 @@ for the problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/mehuloo3/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -169,6 +170,7 @@ for the problem solving
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -291,6 +293,7 @@ for the problem solving
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehuloo3/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehuloo3/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
