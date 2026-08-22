@@ -11,6 +11,7 @@ for the problem solving
 | [0164-maximum-gap](https://github.com/mehuloo3/leetcode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/mehuloo3/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ for the problem solving
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mehuloo3/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -176,6 +178,7 @@ for the problem solving
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mehuloo3/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mehuloo3/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1009-complement-of-base-10-integer](https://github.com/mehuloo3/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -270,6 +273,7 @@ for the problem solving
 ## Game Theory
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
@@ -294,6 +298,15 @@ for the problem solving
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/mehuloo3/leetcode/tree/master/2029-stone-game-ix) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
