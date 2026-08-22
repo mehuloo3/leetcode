@@ -14,6 +14,7 @@ for the problem solving
 | [0810-chalkboard-xor-game](https://github.com/mehuloo3/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mehuloo3/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1207-unique-number-of-occurrences](https://github.com/mehuloo3/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mehuloo3/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
@@ -55,6 +56,7 @@ for the problem solving
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/mehuloo3/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/mehuloo3/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mehuloo3/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mehuloo3/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
