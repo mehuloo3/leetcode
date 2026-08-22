@@ -49,6 +49,7 @@ for the problem solving
 | [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/mehuloo3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ for the problem solving
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mehuloo3/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/mehuloo3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
