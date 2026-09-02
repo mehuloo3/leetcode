@@ -51,6 +51,7 @@ for the problem solving
 | [3731-find-missing-elements](https://github.com/mehuloo3/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mehuloo3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mehuloo3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ for the problem solving
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mehuloo3/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mehuloo3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
