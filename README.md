@@ -53,6 +53,7 @@ for the problem solving
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mehuloo3/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mehuloo3/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mehuloo3/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/mehuloo3/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mehuloo3/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@ for the problem solving
 | [1732-find-the-highest-altitude](https://github.com/mehuloo3/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehuloo3/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mehuloo3/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/mehuloo3/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
