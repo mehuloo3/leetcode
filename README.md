@@ -178,6 +178,7 @@ for the problem solving
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mehuloo3/leetcode/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -215,6 +216,7 @@ for the problem solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mehuloo3/leetcode/tree/master/0115-distinct-subsequences) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
