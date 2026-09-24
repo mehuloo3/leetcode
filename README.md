@@ -45,6 +45,7 @@ for the problem solving
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mehuloo3/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mehuloo3/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mehuloo3/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mehuloo3/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mehuloo3/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mehuloo3/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -146,6 +147,7 @@ for the problem solving
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mehuloo3/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehuloo3/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mehuloo3/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mehuloo3/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mehuloo3/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehuloo3/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mehuloo3/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
