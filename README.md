@@ -182,6 +182,7 @@ for the problem solving
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mehuloo3/leetcode/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -269,6 +270,7 @@ for the problem solving
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehuloo3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -358,5 +360,6 @@ for the problem solving
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehuloo3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
