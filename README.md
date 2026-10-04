@@ -8,6 +8,7 @@ for the problem solving
 | ------- |
 | [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/mehuloo3/leetcode/tree/master/0056-merge-intervals) |
+| [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/mehuloo3/leetcode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/mehuloo3/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -226,6 +227,7 @@ for the problem solving
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/mehuloo3/leetcode/tree/master/0115-distinct-subsequences) |
 | [1406-stone-game-iii](https://github.com/mehuloo3/leetcode/tree/master/1406-stone-game-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -234,6 +236,7 @@ for the problem solving
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mehuloo3/leetcode/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehuloo3/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mehuloo3/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mehuloo3/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -276,6 +279,7 @@ for the problem solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehuloo3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehuloo3/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -369,4 +373,8 @@ for the problem solving
 | [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehuloo3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
