@@ -176,6 +176,7 @@ for the problem solving
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mehuloo3/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mehuloo3/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehuloo3/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehuloo3/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mehuloo3/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mehuloo3/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -194,6 +195,7 @@ for the problem solving
 | [0316-remove-duplicate-letters](https://github.com/mehuloo3/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mehuloo3/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mehuloo3/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehuloo3/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehuloo3/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehuloo3/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/mehuloo3/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -289,6 +291,7 @@ for the problem solving
 | [0085-maximal-rectangle](https://github.com/mehuloo3/leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/mehuloo3/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mehuloo3/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehuloo3/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/mehuloo3/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehuloo3/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehuloo3/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -383,6 +386,7 @@ for the problem solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mehuloo3/leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehuloo3/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehuloo3/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehuloo3/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
